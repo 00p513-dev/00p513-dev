@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on too much stuff xD
-- 🌱 I’m currently learning C, C++, Holy-C (yes I am insane)
+- 🌱 I’m currently learning Android ROMs
 - 👯 I’m looking to collaborate on: any help with Nostalgia OS would be appreciated
+- 🤔 I’m looking for help with: Android ROM dev
 - 💬 Ask me about HackTheBox hints, Linux
-- 📫 How to reach me: Telegram: @amyosx
+- 📫 How to reach me: Telegram: @hannah122
 - 😄 Pronouns: she/her, they/them
-- ⚡ Fun fact: Rats are illegal in Alberta
+- ⚡ Fun fact: Be gay do crime
 
 <!--
 **00p513-dev/00p513-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
