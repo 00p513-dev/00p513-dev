@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=00p513-dev&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/00p513-dev" />
 </a>
 <a href="https://github.com/00p513-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00p513-dev&langs_count=7&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00p513-dev&langs_count=14&theme=nord&layout=compact" />
 </a>
 
 <!--
