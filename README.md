@@ -1,13 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on too much stuff xD
-- 🌱 I’m currently learning Android ROMs
-- 👯 I’m looking to collaborate on: any help with Nostalgia OS would be appreciated
-- 🤔 I’m looking for help with: Android ROM dev
-- 💬 Ask me about HackTheBox hints, Linux
-- 📫 How to reach me: Telegram: @hannah122
-- 😄 Pronouns: she/her, they/them
-- ⚡ Fun fact: Be gay do crime
+### Hewwo UwU
 
 
 <a href="https://github.com/00p513-dev">
