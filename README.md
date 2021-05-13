@@ -1,4 +1,4 @@
-### Hewwo UwU
+### Welcome to my profile!
 
 All projects of my own without a license can be assumed to be under the Don't Be A Dick Public License
 
